@@ -100,13 +100,17 @@ Open the `index.html` file in your browser to view the project.
 ## Screenshots
 
 ### Gallery View
-![Screenshot (1)](https://github.com/user-attachments/assets/2757d7f9-b2ca-4583-b0e9-eaefd4734c3d)
+[Screenshot (1)](https://github.com/user-attachments/assets/481f5950-b2a3-410f-aaad-42a00a2bcf39)
+
 ## Output
-![Screenshot (2)](https://github.com/user-attachments/assets/34fa9023-826c-4538-a47a-c8769839777e)
+![Screenshot (2)](https://github.com/user-attachments/assets/c3bba225-b180-48c1-9045-9be07697bcbc)
+
 ## Output Screenshot
-![Screenshot (3)](https://github.com/user-attachments/assets/198279c5-c604-4790-8ba8-dcaa16276823)
+![Screenshot (3)](https://github.com/user-attachments/assets/18baa4b5-d6bd-4380-9d5d-8a0ce10a569c)
+
 ## Output detials
-![Screenshot (4)](https://github.com/user-attachments/assets/2813efa4-fcdd-4033-8c43-4cc24da72684)
+![Screenshot (4)](https://github.com/user-attachments/assets/7d9fc187-f1d8-4e0f-adcc-c29b557d566c)
+
 
 ---
 
