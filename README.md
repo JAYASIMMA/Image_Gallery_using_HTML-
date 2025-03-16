@@ -141,6 +141,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Enjoy using the **Image Gallery with 3D Flip Animation**! If you have any questions or feedback, feel free to reach out.
 
----
-
-Let me know if you need further assistance! 🚀
